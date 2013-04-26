@@ -1,0 +1,4 @@
+auto: true
+server: true
+url: http://campbell17.com
+permalink: /:categories/:title
